@@ -1,0 +1,3 @@
+[submodule "indy-vdr"]
+	path = indy-vdr
+	url = git@github.com:hyperledger/indy-vdr.git
