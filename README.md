@@ -26,5 +26,5 @@ In another terminal, run the demo script/tests:
 
 ```sh
 $ poetry install
-$ poetry run pytest -sv
+$ poetry run pytest -sv test
 ```
